@@ -16,4 +16,6 @@ More details of feature defination, you can refer to our paper: Domain Knowledge
 ## How-to
 1. Run ``` python feature_extraction.py ```, and you can generate your own excel
 
-## 
+## Results
+we train a GBDT model on hand-crafted features and position encoding segmentation. The validation and test results of Brats 2019 survival prediction are shown below:
+
