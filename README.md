@@ -6,4 +6,4 @@ Feature extraction for overall survival prediction in BraTS 2019 challenge
 * opencv2
 
 ## How-to
-1. Run ``` python  python feature_extraction.py ```
+1. Run ``` python feature_extraction.py ```, and you can generate your own excel
