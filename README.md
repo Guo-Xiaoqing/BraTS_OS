@@ -18,5 +18,5 @@ For more details of feature defination, you can refer to our paper: Domain Knowl
 
 ## Results
 we train a GBDT model on hand-crafted features and position encoding segmentation. The validation and test results of Brats 2019 survival prediction are shown below:  
-![image](https://https://github.com/Guo-Xiaoqing/BraTS_OS/tree/master/feature_excel/Brats_valid.png)
+![image](https://github.com/Guo-Xiaoqing/BraTS_OS/tree/master/feature_excel/Brats_valid.png)
 
