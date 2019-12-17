@@ -1,6 +1,7 @@
 # BraTS_OS
 ## Summary:
-This repository is for ["Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction"](https://arxiv.org/pdf/1912.07224.pdf) Feature extraction for overall survival prediction in BraTS 2019 challenge.
+* This repository is for ["Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction"](https://arxiv.org/pdf/1912.07224.pdf). 
+* Feature extraction for overall survival prediction in BraTS 2019 challenge.
 
 ## Requirements
 * Nibabel
