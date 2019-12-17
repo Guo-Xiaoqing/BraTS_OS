@@ -1,5 +1,7 @@
 # BraTS_OS
-Feature extraction for overall survival prediction in BraTS 2019 challenge [Paper](https://arxiv.org/abs/1912.07224)
+## Summary:
+This repository is for ["Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction"](https://arxiv.org/pdf/1912.07224.pdf) Feature extraction for overall survival prediction in BraTS 2019 challenge.
+
 ## Requirements
 * Nibabel
 * Openpyxl
