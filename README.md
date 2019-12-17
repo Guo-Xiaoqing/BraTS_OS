@@ -1,5 +1,5 @@
 # BraTS_OS
-Feature extraction for overall survival prediction in BraTS 2019 challenge
+Feature extraction for overall survival prediction in BraTS 2019 challenge [Paper](https://arxiv.org/abs/1912.07224)
 ## Requirements
 * Nibabel
 * Openpyxl
