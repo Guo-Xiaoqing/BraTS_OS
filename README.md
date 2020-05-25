@@ -1,6 +1,6 @@
 # BraTS_OS
 ## Summary:
-* This repository is for ["Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction"](https://arxiv.org/pdf/1912.07224.pdf). 
+* This repository is for ["Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction"](https://link.springer.com/chapter/10.1007/978-3-030-46643-5_28). 
 * Feature extraction for overall survival prediction in BraTS 2019 challenge.
 
 ## Requirements
@@ -24,4 +24,18 @@ we train a GBDT model on hand-crafted features and position encoding segmentatio
 ![image](https://github.com/Guo-Xiaoqing/BraTS_OS/blob/master/feature_excel/Brats_valid.png)  
 ![image](https://github.com/Guo-Xiaoqing/BraTS_OS/blob/master/feature_excel/Brats_test.png)  
 
+## Citation:
+If you found this repository helpful for your research, please cite our paper:
+```
+@inproceedings{guo2019domain,
+  title={Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction},
+  author={Guo, Xiaoqing and Yang, Chen and Lam, Pak Lun and Woo, Y.M. Peter and Yuan, Yixuan},
+  booktitle={BrainLes},
+  volume={11993},
+  year={2019},
+  organization={Springer}
+}
+```
 
+## Questions:
+Please contact "xiaoqingguo1128@gmail.com" or "cyang.ee@my.cityu.edu.hk"
