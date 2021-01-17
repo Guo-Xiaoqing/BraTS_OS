@@ -11,8 +11,8 @@
 ## Feature explanation
 We define 36 hand-crafted features that involves non-image features and image features.   
 a) Non-image features includes age and resection status.  
-b) Image featues includes vlolume, volume ratio, surface area，surface area to volume ratio，position of the whole tumor  center，position of the enhancing tumor center, relevant location of the whole tumor center to brain centerand relevant location of theenhancing tumor center to brain center.  
-  
+b) Image featues includes vlolume, volume ratio, surface area, surface area to volume ratio, position of the whole tumor center, position of the enhancing tumor center, relevant location of the whole tumor center to brain centerand relevant location of the enhancing tumor center to brain center, [brain parcellations](https://drive.google.com/file/d/1ebx3VP--F_9xvacvipxXObKOMuJEDHYl/view).  
+
   
 For more details of feature defination, you can refer to our paper: Domain Knowledge Based Brain Tumor Segmentation and Overall Survival Prediction
 
